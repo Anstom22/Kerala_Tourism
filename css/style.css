@@ -1,0 +1,381 @@
+
+  nav a{
+    color: rgb(35,102,12);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1px;
+    margin-right: 5px;
+    margin-left: 100px;
+}
+
+.nav1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color:white;
+}
+
+nav img{
+    margin-top: 0em;
+    margin-left: 0em;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+#nav_links{
+    margin-top: 2em;
+    margin-right: 20px;
+    float: right;
+
+}
+
+nav a:hover{
+    color:black;
+}
+
+
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em; 
+    font-weight: 700; 
+    line-height: 800%;
+    text-align: right;
+    margin: 0;
+    padding-right: 5px;
+    padding-top: 2em;
+    background-image: url("../images/groupkatahkali.jpg"); 
+    width: 100%;
+    height: 90vh;
+    justify-content: center;
+    text-shadow: 2px 2px 8px rgb(118, 118, 117);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+ } 
+
+ #contact{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em; 
+    font-weight: 700; 
+    line-height: 800%;
+    text-align: right;
+    margin: 0;
+    padding-right: 5px;
+    padding-top: 2em;
+    background-image: url("../images/coconut.jfif"); 
+    width: 100%;
+    height: 90vh;
+    justify-content: center;
+    text-shadow: 2px 2px 8px rgb(118, 118, 117);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 100%;
+    background-position: center center;
+    min-height: 100%;
+ } 
+ #faq{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em; 
+    font-weight: 700; 
+    line-height: 800%;
+    text-align: right;
+    margin: 0;
+    padding-right: 5px;
+    padding-top: 2em;
+    background-image: url("../images/night.jpg"); 
+    width: 100%;
+    height: 90vh;
+    justify-content: center;
+    text-shadow: 2px 2px 8px rgb(118, 118, 117);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 100%;
+    background-position: center center;
+    min-height: 100%;
+ } 
+
+ #accordion{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 70%;
+    padding-left: 210px;
+    
+ }
+
+ #accordion h3{
+    background-color: rgb(235, 170, 170);
+ }
+ .map{
+    justify-content: center;
+    padding-top: 80px;
+    width: 90%;
+    padding-left: 150px;
+ }
+
+ .address{
+    text-align: center;
+
+ }
+ 
+
+
+
+ h2{
+    font-family: 'Gabriola','Sans-sefif';
+    font-size: 2em;
+    color: rgb(35,102,12);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    border-top: 5px; 
+    padding-top: 1em;
+    padding-bottom: 2px;
+ }
+
+ #main_p{
+    margin: 1em;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+ }
+
+ #sec1 p{
+    display: flex;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(241, 247, 247);
+    opacity: 0.8;
+    text-align: center;
+ }
+ #sec2 p{
+    display: flex;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(241, 247, 247);
+    opacity: 0.8;
+    text-align: center;
+
+ }
+ #sec3 p{
+    display: flex;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(241, 247, 247);
+    opacity: 0.8;
+    text-align: center;
+
+ }
+ .secs section
+ {
+   
+    width: 25%;
+    display: inline-block;
+    height: 500px;
+    margin-left: 4em;
+    padding-top: 4em;
+    margin-top: 1em;
+    background-repeat: no-repeat;
+    margin-bottom: 0em;
+    padding-bottom: 0em;
+ }
+#sec1{
+    background-image: url("../images/kathakalinew.jpg");
+    width: 25%;
+    display: inline-block;
+    height: 500px;
+    margin: 2em 1em;
+    padding: 2em 2em;
+    margin-left: 2.3em;
+
+}
+
+#sec2{
+    background-image: url("../images/trees.jpg");  
+    width: 25%;
+    display: inline-block;
+    height: 500px;
+    margin: 2em 1em;
+    padding: 2em 2em;
+
+}
+
+#sec3{
+    background-image: url("../images/elephantsnew.jpg"); 
+    width: 25%;
+    display: inline-block;
+    height: 500px;
+    margin: 4em 1em;
+    padding: 2em 2em;
+}
+
+.secs{
+    background-color: rgba(145, 146, 146, 0.603);
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.div1{
+    text-align: justify;
+    width: 32%;
+    margin-left: 3em;
+    margin-right: 3em;
+
+}   
+
+.div1 img{
+    display:block;
+    margin: 0 auto;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.div2{
+    text-align: justify;
+    width: 32%;
+    margin-left: 3em;
+    margin-right: 3em;
+
+}   
+
+.div2 img{
+    display:block;
+    margin: 0 auto;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+
+.child{
+    border: 2px solid gray;
+    padding: 1em;
+    text-align: justify;
+    width: 32%;
+    align-items: center;
+    display: inline-block;
+    margin-left: 7.5em;
+    margin-right: 7em;
+}
+
+#h2{
+    padding-top: 2em;
+}
+
+.child h3{
+    text-align: center;
+    padding: 10px;
+}
+.child a{
+    text-decoration: none;
+    color: red;
+}
+
+.child img{
+    width: 100%;
+    
+}
+
+
+
+footer{
+    font-family:'Century Gothic','serif';
+    font-size: smaller;
+    background-color: rgb(65,132,42);
+    color: #eee;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 20px;
+ }
+footer div{
+    display: inline-block;
+    width: 33%;
+    font-style: normal;
+}
+
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+#copyright{
+    font-family: 'serif';
+    font-style: italic;
+    text-align: center;
+    margin-left: 25em;
+    
+}
+
+body{
+    margin: 0;
+}
+
+h3{
+    font-family: 'Gabriola','Sans-sefif';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footdiv{
+    float: right;
+    text-align: center; 
+    padding-right: 1em;
+    margin-right: 1em; 
+}
+
+#logout{
+    color:white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    float: right;
+    padding-top: 0px;
+    margin-top: 0px;
+    background-color: black;
+    border: none;
+    font-weight: bold;
+    height: 90px;
+}
+#faqs{
+    padding-left: 110px;
+    width: 1310px;
+}
+#faqs h3 {
+    background: url("../images/plus.png") no-repeat left center;
+    padding-left: 20px;
+}
+#faqs h3.minus {
+    background: url("../images/minus.png") no-repeat left center;
+}
+#faqs section {
+    display: none;
+}
+#faqs p{
+    margin: 1em;
+    font-size:medium;
+    font-family:'Times New Roman', Times, serif;
+    text-align:justify;
+}
+
+#faqs a{
+    text-decoration: none;
+    color: rgb(42 161 130);
+}
+
+
+@media screen and (max-width: 800px) {
+    .child, .nav1 .footer1 .secs .season .footdiv{
+      width: 75%;
+      margin: auto; 
+    }
+} 
+
+

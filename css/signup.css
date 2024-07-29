@@ -1,0 +1,53 @@
+.signupbody{
+    background-color: rgb(134, 204, 101);
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-left: 500px;
+    align-items: center;
+}
+
+.sign{
+    /* border: 3px solid white; */
+    /* height: 550px; */
+    background-color:rgb(134, 204, 101);;
+}
+
+label {
+	float: left;
+    color: black;
+    padding-left: 20px;
+    width: 80px;
+}
+input{
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 2em;
+}
+input {
+    width: 26em;
+    height: 2.8em;
+    border-radius: 6px;
+    border: 1px solid rgb(82, 81, 81);	
+
+}
+
+#submit {
+	width: 26.6em;
+    height: 3em;
+    background-color: rgb(205, 37, 73);;
+    color: white;
+    border-radius: 6px;
+    opacity: 0.6;
+    font-weight: bold;
+    margin-left: 112px;  
+}
+span {
+	color: red;
+}
+
+h2{
+    color: black;
+    padding-bottom: 5px;
+    padding-left: 220px;
+    padding-bottom: 20px;
+}
